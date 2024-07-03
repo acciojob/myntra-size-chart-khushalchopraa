@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+body{
+	widht: 400px;
+}
+table{
+	border: 1px solid black;
+	
+}
+thead{
+	background-color: #910707;
+}
